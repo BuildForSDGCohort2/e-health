@@ -1,0 +1,2 @@
+# e-health
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1550dc9ccf5241bb93b08b81541d0280)](https://app.codacy.com/gh/BuildForSDGCohort2/e-health?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/e-health&utm_campaign=Badge_Grade_Settings)
